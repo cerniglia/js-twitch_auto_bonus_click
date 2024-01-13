@@ -1,2 +1,1 @@
-# js-twitch_auto_bonus_click
-Automatically click bonus for live twitch streams
+Using DevTools paste into console.  Will check every 2 seconds for the bonus.
